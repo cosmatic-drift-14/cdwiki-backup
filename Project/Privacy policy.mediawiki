@@ -1,0 +1,21 @@
+We collect the following information from all visitors to the website:
+* Ip address
+* Date of access
+
+This information is automatically logged to be able to block abusers and AI scrapers. If we detect malicious activity or web scraping your IP may be stored indefinitely to block you from our services. Web access logs will automatically be deleted by at least the end of the year (typically much sooner than that).
+
+You may be additionally chose to sign in with your "Space Station 14" account. We store the data provided to us by the administrators of the Space Station 14 authentication servers until your account is deleted. This is required for us to secure your account against unauthorized access. 
+
+We currently do not support logging in through other means. 
+
+You may additionally opt to provide more information in your user profile or preferences to control site settings. This information is stored on our servers until your account is deleted.
+
+All information you contribute to shared public articles is considered a contribution and is not personal data. To gain the ability to edit articles you agree to license it under the terms of the [[Meta:CC BY-NC-SA 4.0 License Text|Creative Commons Share Alike Non-Commercial 4.0 license]]. As such, this data is not deleted upon you deleting your account and may not be deleted after a data deletion request. If you do not agree to those terms you will be restricted to read-only access.
+
+Any data collected may be shared with trusted third parties in order to carry out operational needs. 
+
+This website is hosted by [[User:Aquif]], who is based out of the United States. You may request a copy of all your user data or request a deletion by contacting email on the front page of [https://notaslug.org notaslug.org]. If you live in a country that has laws preventing data export to the United States under some circumstances please immediately discontinue your use of this website and request for your data to be deleted.
+
+This text may be updated at any time and the new version is effective as soon as it is published. Users are expected to periodically check this page for the latest version. 
+
+See the [https://wiki.cosmaticdrift.net/index.php?title=Meta:Privacy_policy&action=history Revision History] for a log of changes.

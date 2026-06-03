@@ -1,0 +1,22 @@
+Welcome to the cosmatic drift wiki! This is somewhat of a work in progress. 
+
+Articles with no prefix are standard information about the game meachanics and server policy. Articles with the <code>Lore:</code> prefix are articles about the game world. Lore articles are typically written from the prospective of an in-universe wikipedia type website however they may contain knowledge that would not be commonly known in-character. Articles with the <code>IC:</code> prefix are written from an entirely in-universe propsective and your character would have ready access to them in-game. 
+
+=== Basic Information ===
+
+* [[Lore:Setting Primer | Setting Primer]] (Start here)
+* [[Server Rules]]
+* [[IC:NT Law| NT Law]]
+* [[IC:Standard Operating Procedures | Standard Operating Procedures]]
+
+=== Information about the world ===
+* [[Lore:NanoTrasen | NanoTrasen ]]
+* [[Lore:The Drift | The Drift ]]
+* [[Lore:The Fissure | The Fissure ]]
+
+=== Contributing to the wiki ===
+To prevent vandalism, the wiki is read-only to the general public. Please request the [[Meta:Writer|Writer]] role on discord by asking in the #lore channel. Anyone whitelisted on the game server will be granted edit access. You must login first using your ss14 account by clicking the "Login" button in the top right  before we gan give you edit access. 
+
+Articles in the Lore and IC namespace need to be approved by staff before they are published. See [[Meta:Contributing]] for more information.
+
+All wiki content is licensed under the terms listed in [[Meta:Copyrights]]. By contributing you agree to make your contribution avalible under those terms.

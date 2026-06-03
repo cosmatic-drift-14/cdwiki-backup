@@ -1,0 +1,19 @@
+The eight operating procedures determine how certain things are handled aboard the station, things such as contraband, demotions, alert levels, and much more.
+
+The General Standard Operating Procedure is followed by every person either aboard the station or in it's proximity. Additionally, personnel in one of the seven standard departments are beholden to their own department's standard operating procedures during their shift.
+
+Some contents of these procedures can be altered by certain command members during a shift so the contents listed here may be inaccurate to your current station.
+
+Failure to follow any SOP relevant to you may result in criminal charges under [[IC:NT Law| NT Law]].
+
+List of Default Standard Operating Procedures:
+* [[IC:General Standard Operating Procedures|General]]
+* [[IC:Command Standard Operating Procedures|Command]]
+* [[IC:Security Standard Operating Procedures|Security]]
+* [[IC:Engineering Standard Operating Procedures|Engineering]]
+* [[IC:Medical Standard Operating Procedures|Medical]]
+* [[IC:Science Standard Operating Procedures|Science]]
+* [[IC:Cargo Standard Operating Procedures|Cargo]]
+* [[IC:Service Standard Operating Procedures|Service]]
+
+[[Category:In-character_rules]]

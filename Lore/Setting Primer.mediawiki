@@ -1,0 +1,64 @@
+The year is 2741, you have recently been hired by [[Lore:NanoTrasen | NanoTrasen]]- a megacorporation larger than multiple countries, to operate as part of a crew assigned to various research stations in a region known as "The Drift". 
+
+== The Drift ==
+[[Lore:The Drift| The Drift]] is a collection of stars located in a forgotten corner of the Milky Way Galaxy. It was originally the location of a few minor mining colonies with the Drift Mining Division has been one of the least profitable divisions of NanoTrasen for several hundred years due to the lack of investment in the area. However, unknown events have resulted in massive anomaly which has taken over the identity of the sector.
+
+=== The Thing At The Center Of It All ===
+At the center of the sector is a large unstable space fissure. In appearance the fissure is set up in a vortex
+manner, sprawling outwards from a fuschia center are arms of dark purple that encircle and rotate around
+it. [[Lore:The Fissure|The fissure]] goes by a lot of names, The Rift, The Vortex, The Breach, and so on. The fissure’s past is
+rather blurry, but reports show it was not present in the sector always before NanoTrasen moved in; the
+time it first appeared is not on record.
+
+It is known to materialize or teleport objects in and out. It is unknown if the
+fissure creates matter on its own, or if the objects exiting it existed already
+elsewhere in space. Upon appearing from the fissure, objects will usually be
+shot out at a fast pace and enter a near orbit around it, the rate that this
+orbit decays varies heavily, no factors affecting it have been found.
+Eventually the orbit will decay, and it will re-enter the fissure, if the
+object is teleported elsewhere or destroyed is unknown. No object sent into the
+fissure has been reported to come back out in any manner.
+
+The debris resulting from the fissure, have been found to contain bodies, NT gear, and Syndicate
+technology. All confirmed structures originating from the fissure are heavily torn apart and damaged, none
+so far have been linked back to known facilities. Bodies from the fissure are mangled to a point of being
+unidentifiable, DNA samples indicate their genetics have been heavily scrambled, rendering them
+undetectable.
+
+Several interference waves and unknown distorted signals have originated from the fissure. The waves of
+interference carry the same properties as the The Divide, but weaker and usually
+don't cause permanent damage. There is no observable pattern to the interferences. The unknown
+signals, as with all things from the fissure, have yet been linked to any past signal from facilities. It's
+confirmed that occasionally the fissure will emit a signal that has been heard from it before. 
+
+=== The Disturbance Zone ===
+
+Tightly surrounding the fissure is an area that is described as The Divide. Difficult to discern exactly what it
+looks like, it seems to be a constant shift, mix, and blend of the space around it.
+
+When entering The Divide all technology appears to falter. Power systems flicker, communications distort,
+camera relays go static. If anything gets past the initial effects, the deeper it goes more major damages on
+a physical level are shown to occur, some of these include vision warping, sound distortion, and material
+bending or loss. Approaching the Fissure's Divide and exiting has shown permanent damage to facility
+systems, in other words the disturbance caused is not temporary. The deeper probes have been, the more
+severe the damage upon returning.
+
+The Divide appears to pulse outward at times, with seemingly no pattern; this has been directly linked to
+the occurrence of interference waves that carry the same but weaker properties as The Divide and acts as
+an early warming system for them. Sometimes unknown fragmented signals are also picked up after a
+pulse, but they rarely consist of anything workable.
+
+=== The Drifting Belt ===
+
+The Drift, as it's most commonly called, is the collection of scrap and NT facilities that orbit the fissure. The
+Drift is as old as the fissure it surrounds, unsurprisingly.
+
+Most NT facilities stationed here are on a full orbit track, a few are constructed around long term debris, a
+couple facilities have even course corrected wrecks and permanently set up on them. Due to the resource
+rich environment mining and salvage operations are mainly conducted in this region. Research stations
+are found most in a much tighter orbit, usually away from the risk of getting hit with stray debris.
+
+=== The Consistent Staffing Program ===
+Traditionally, NanoTrasen assigned crew manifests semi-randomly and it was exceptionally rare to have the same crew assigned to multiple different shifts together. However, due to the isolated nature of the Drift a different system where were the same crew was consistently assigned together was rolled out in a limited capacity to gauge effects on morale and productivity. You are currently assigned to one of these trial crews.
+
+This program has been linked to a demonstrated increase in Nepotism, Low Productivity, Unionization, and Revolts. However, due to the popularity among members of these crews and the difficulty of finding staff willing to travel to such a remote place, the program remains running on a limited number of shifts.
