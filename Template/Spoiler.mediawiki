@@ -1,0 +1,6 @@
+<div class="mw-collapsible mw-collapsed" style="border:1px solid #aaa; padding:5px; background-color: #021130; color:white">
+{{{1|Spoiler}}}
+<div class="mw-collapsible-content">
+{{{2|}}}
+</div>
+</div>

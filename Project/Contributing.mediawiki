@@ -1,0 +1,20 @@
+__APPROVEDREVS__
+== How to Contribute? ==
+
+Anyone is welcome to contribute articles. You must first request the [[Meta:Writer| Writer]] role on discord in the #lore channel. If your request is not responded to in 24 hours feel free to request again and ping a wiki admin. Articles are written using mediawiki markup. It is fairly intuitive and there are plenty of places online that go over how to write it. You can also enable a "What you see is what you get" editing mode in your user preferences by selecting "Enable the visual editor" under the Editing tab. 
+
+=== Wiki Overview ===
+
+This wiki is for Lore, Meta, and Gameplay information about the Cosmatic Drift ss14 server. Meta and Gameplay information is in the default namespace. Lore information should be eaither in the IC namespace for documents intended to be available IC (NT policies, Leaflets, News Articles, etc). The Lore namespace is for information about the setting typically written from an semi-omnipotent prospective that your character may not know! The Meta namespace is reserved for information about the Wiki itself. Articles outside of the Wiki scope and Lore Scope may be deleted. Please ask with staff before you start writing if you are unsure. 
+
+Articles in the default namespaces are instantly published like a traditional wiki- just click the edit button and make your change! Articles in the IC and Lore namespaces need to be approved by staff before they are published. This is so we can make sure what you wrote fits into the vibes that we are going for. After editing an article that requires approval please send a message in #lore on discord asking for it to be looked at. We will try and get back to you with approval/feedback ASAP!
+
+Policy articles (such as this one) will typically also require approval for updates.
+
+=== Lore Scope ===
+
+Stuff covered on the wiki must be either be especial notable to The Drift region of space, or be about major galatic events. We are a "Large Galaxy" Sci-Fi setting which means a lot of the galaxy is undocumented, unexplored, and the there is on the order of tens of thousands of inhabited planets. 
+
+Factions and locations used in your character's backstory are almost certainly covered by our [[Automatic Canonization Policy]] regardless of if there are wiki articles. Items covered by this policy are generally not allowed to be in wiki articles, but we may grant exceptions to that on a case-by-case basis if it becomes a major thing in-game. 
+
+We also specifically do not want Species lore. We want players to be able to create whatever custom species they want and be able to write the lore for it.
