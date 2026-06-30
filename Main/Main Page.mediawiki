@@ -10,7 +10,7 @@ Articles with no prefix are standard information about the game meachanics and s
 * [[IC:Standard Operating Procedures | Standard Operating Procedures]]
 
 === Information about the world ===
-* [[Lore:NanoTrasen | NanoTrasen ]]
+* [[Lore:Factions | Factions]]
 * [[Lore:The Drift | The Drift ]]
 * [[Lore:The Fissure | The Fissure ]]
 

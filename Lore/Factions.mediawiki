@@ -1,0 +1,25 @@
+A notable collection of the many, many, corporations, organizations, militaries, and governments of the galaxy.
+
+=== Megacorporations ===
+* [[Lore:Cybersun | Cybersun Industries]]
+* [[Lore:Donk Co | Donk Corporation]]
+* [[Lore:Interdyne | Interdyne Pharmaceuticals]]
+* [[Lore:NanoTrasen | NanoTrasen Technologies]]
+
+=== Companies ===
+* TBD
+
+=== Organizations ===
+* [[Lore:ARC | Animal Rights Consortium]]
+* [[Lore:SELF | Sentient Engine Liberation Front]]
+* [[Lore:Syndicate | Syndicate]]
+
+=== Militant Groups ===
+* [[Lore:CLF | Colony Liberation Front]]
+* [[Lore:Gorlex Marauders | Gorlex Marauders]]
+* [[Lore:UNMC | United Nations Marine Corps]]
+* [[Lore:SPP | Socialist Progressive Peoples]]
+
+=== Governments ===
+* [[Lore:The Drift#Government | Cosmatic Drift Governance Board]]
+* [[Lore:SolGov | Sol Central Government]]
