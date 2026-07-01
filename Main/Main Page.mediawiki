@@ -1,4 +1,4 @@
-Welcome to the cosmatic drift wiki! This is somewhat of a work in progress. 
+Welcome to the Cosmatic Drift Wiki! This is somewhat of a work in progress. 
 
 Articles with no prefix are standard information about the game meachanics and server policy. Articles with the <code>Lore:</code> prefix are articles about the game world. Lore articles are typically written from the prospective of an in-universe wikipedia type website however they may contain knowledge that would not be commonly known in-character. Articles with the <code>IC:</code> prefix are written from an entirely in-universe propsective and your character would have ready access to them in-game. 
 
@@ -20,3 +20,9 @@ To prevent vandalism, the wiki is read-only to the general public. Please reques
 Articles in the Lore and IC namespace need to be approved by staff before they are published. See [[Meta:Contributing]] for more information.
 
 All wiki content is licensed under the terms listed in [[Meta:Copyrights]]. By contributing you agree to make your contribution avalible under those terms.
+
+=== External CD Links ===
+* [https://discord.gg/QVSsG9XS7c Discord Server]
+* [https://github.com/cosmatic-drift-14/cosmatic-drift Github Repo]
+* [https://replays.cosmaticdrift.net/ Round Replays]
+* [https://www.patreon.com/cosmaticdrift Server Patreon]
