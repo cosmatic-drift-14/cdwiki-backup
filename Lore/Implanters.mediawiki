@@ -1,0 +1,38 @@
+This page includes lore information about implants.
+
+=== What Are Implants? ===
+Implants are typically small machines meant to be put inside one's body. They can have a variety of functions, ranging to cosmetic alterations to practical abilities. Some examples that can be found upon NanoTrasen stations are light implants, and tracking implants. 
+Implants typically rely on bluespace technology to perform their function, as without this technology, a relatively trivial function would require intensive surgery.
+There are two main kinds of implants &#8212; Long-Term Implants, and Disposable Implants. Both have their uses.
+
+=== Long-Term Implants ===
+Long-Term Implants are, as the name suggests, implants meant to be used many times over a long term, sometimes being days, months, years, or even a lifetime. These implants typically require surgery to be inserted, as anything beyond a perfect insertion can cause complications.
+
+Long-Term Implants typically are powered by a person's body heat, metabolism, or generation of electricity. Batteries often do not last long enough to be used long-term, and recharging a battery inside a person is challenging. Research on using quantum or bluespace technology to charge an implant are ongoing.
+
+Long-Term Implants also use minimal power, as the body cannot support electricity-intensive devices.. In extreme cases, a secondary implant may be administered to increase a person's body heat production/metabolism/electricity generation to provide more power to the original implant.
+
+=== Disposable Implants ===
+Disposable Implants, are, once again, as the name suggests, implants that are meant to be disposable. They typically run off of a battery or capacitor, and dissolve inside someone's body when their purpose is fulfilled. They can last on average for days, to weeks. 
+
+These implants are typically inserted via an implanter.
+
+=== Implanters ===
+Implanters are pieces of technology that allow for rapid insertions of implants. They resemble a syringe, with a needle, a plunger, and a barrel. In the barrel contains a custom implant.
+
+Implanters can be used without any training &#8212; simply stab yourself with the needle, press down on the plunger, and the implanter does the rest. The implanter will move the implant across your body until it is in the correct spot, where the implant will begin taking function. This isn't as precise as surgery, but is cheap and easy. It works for all but the most sensitive implants. 
+
+Empty implanters can also be used to remove implants. The implanter must be designed to remove each specific implant, although a single implanter can have multiple options for which implant it wants to remove. Simply stab yourself with the needle and draw on the plunger, and the implant will move inside the implanter, removing it from your body.
+
+=== Why Use Disposable Implants? ===
+Disposable Implants have a few benefits over Long-Term Implants. Disposable Implants are much cheaper, can allow for implants to use much more power-intensive machines, allow implants that would have long-term consequences to be used, allow for implants on impulse, and allow for implants to be done without paperwork.
+
+Firstly, it's cheaper to use a Disposable Implant over a Long-Term Implant. The lack of needing to generate power saves a lot of money on the implant.
+
+Secondly, Disposable Implants can use much more power intensive machines. They can use all of their battery quickly, as they only need to last a short while.
+
+Thirdly, Disposable Implants only last for a short while, so long-term consequences of the implant can be mostly ignored. 
+
+Fourthly, Disposable Implants allow for impulse implants. A vending machine set up in a corner store can sell implants that can be injected at the same day, for a party trick or otherwise.
+
+Lastly, Disposable Implants do not require much paperwork. A Long-Term Implant requires the patient to be told it's use, it's consequence, it's side effects, and other information, alongside a signature. Disposable implants circumvent this, as if it fades within a week, no paperwork is needed.

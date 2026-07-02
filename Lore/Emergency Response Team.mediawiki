@@ -1,0 +1,39 @@
+The Emergency Response Team program, initially created to assist NT assets in need of additional personnel or specialists in certain fields, Such as Medical, Engineering, Religious, Janitorial, and Security.
+
+= Structure =
+The program has a rather simple power structure compared to the bureaucracy that crated it, able to be easily defined. Central Command staff, underneath the relevant departmental Directors, can affix themselves to the power structure of an ERT unit or team depending on their rank within their department.
+
+== Non-Combative units ==
+
+Specialists, who are deployed as non-combatants, to assist the station are dispatched to provide their Expertise in their relevant Fields, Specialists contain experts in Medical, Religious, Janitorial, Engineering; As well as Officers, a Security specific subset of specialists who can act as dispatched Law enforcement assistance.
+
+== Combative units == 
+
+The Militarized sections have a more complex Power structure.
+a combative team team may contain any mix of units or specialists. however it is usually comprised of combatants a team can be any size and any composition of personnel
+
+ Leaders    | are Security and Command Specialists, and are generally Sargents, and ensure the mission is completed.
+ Grenadiers | are Security Specialists with the duty to clear rooms from a safe distance.
+ Pointmen   | can be Security or Engineering Specialists and have the equipment to create openings in structures
+ Vanguards  | are Security Specialists with the duty to hold the rear of the teams formation
+ Riflemen   | are Security Specialists with the duty of being the bulk of the firepower of the unit 
+ Corpsmen   | are Medical Specialists with the responsibility of providing advanced medical care to the rest of the unit
+
+CBURN have an even simpler power structure, while their duties are wide reaching, the simplicity of their teams command structure are found to increase mission success rates.
+ Sargents
+ Corporals
+ Specalists 
+
+Duties of higher ranking ERT personnel, such as: Lieutenants, Colonels, majors, and commanders; vary Greatly from occasionally taking the role of a Sargent to personally ensure a mission is completed; to ensuring that Those below you are completing their duties, or acting as an information relay for a team. these personnel will sometimes also hold other duties at central command.
+
+= History and Practices =
+== Hiring Practices ==
+Much like Central Command, it primarily consists of NT employees who showed excellence in their field, however, didn't make the cut to be considered Central Command material. Or rather simply enlisted to be reserve personnel who took the place of someone and were formally recruited. Occasionally higher ranking ERT personnel personally cherry pick staff from the work division of the company to be directly offered employment within the program.
+
+== History ==
+First Formed out of volunteers to provide assistance to locations that requested it Initially composed of specialists in Engineering, Medical, Religious, and Janitorial. there was a slight shift after the syndicate began its activities, security personnel were added into the roster to assist locations that suspected they had activity onboard.
+
+They were one of the first to respond to the Research Facility, and arrived in time to see the entire thing go up. Afterwards Several new specializations opened up creating the combative teams. From the cleanup crew of the disaster a new specialization within the ERT program was created for handling Radiological, burning, nuclear, and chemical disasters. After the joint Romerol experiments between Nanotressen and Interdyne Undead was added into the acronym that had been its name up to that point.
+
+== Notable Drift Specific Emergency Response Team Personel ==
+* Lieutenant Blackvvitch, personal assistant To Investigator Citrine
