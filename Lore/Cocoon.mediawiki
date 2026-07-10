@@ -1,0 +1,25 @@
+The Cocoon station model is a station designed by a local company within the drift known as Penguin Corporation, it comes with many  documents for each department, and automated systems that faxes them to every department.
+
+[https://github.com/penguincoder4/SS14-Paperwork-hell-for-CD-bowomp./blob/main/Central%20Command%20(CNT)/Mapping%20or%20other%20fancy%20stuff/Cocoon%20Security%20notice.txt/ Cocoon's Security Notice (off site)]
+
+==History==
+The Cocoon station model was originally commissioned for the purpose of research into the biology of the xenonids. 
+after an incident on 12/██/████, on station PCS #005. Within one of the storage sections of the facility contained behind the laboratory that on the girders within, that certain construction methods of the girders led to the xenonids utilizing it in the construction of their structures. This was then later applied to the station bridge when it was destroyed by a large scale impact of an meteorite, by the construction office of Penguin Corporation. The chitin fused with the framework that was constructed, fusing into the remaining sections of the asteroid.
+
+===Constructed Stations===
+Identified by producing company label attached to it, due to internal company policy of shifting station IDs in regards to start time of station crew.
+
+ PCS #001  | Destroyed after Incident ████████████████ on 23/██/████.
+ PCS #002  | In service.
+ PCS #003  | Destroyed with onboard nuclear device, on 12/██/████ to avoid Cascading failure.
+ PCS #004  | Decommissioned on 02/██/████ after Incident Echo-444-PC-COCOON-456-CARGO
+ PCS #005  | Damaged but in service.
+ PCS #006  | Super Structure Failure, Evacuated and Scrapped on 06/██/████.
+ PCS #007  | In service.
+ PCS #008  | In service.
+
+==Contractional obligations==
+Due to the nature of the contracts regarding maintenance and repair, Nanotressen personnel aren't allowed to do in-depth long term maintenance without getting a permitting hand from the company to approve it. due to this, most modifications are reverted shortly after staffing personnel leave, most added machines are shuffled off to higher end stations.
+
+===Biological Sculpting Program===
+A major part of the station relies on the knowledge that Penguin corp has gathered with sculpting the Xenological sections of the station. Due to insistence (and sheer financial cost) on Nanotressen personnel being unable to record or be onboard while specialists who coax the living sections of the station to self repair; Nanotressen is completely at the whim of Penguin Corporation to continue servicing the handful of retrofitted instances of the station. Due to this shifts are completely limited to five hours to give Maintenance personnel proper time to clean the station up and revert any unwarranted modifications, after which specialists arrive from Penguin corp to feed the station and Sculpt repairs back into the station.
