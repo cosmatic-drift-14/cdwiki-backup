@@ -13,7 +13,7 @@ Identified by producing company label attached to it, due to internal company po
  PCS #002  | In service.
  PCS #003  | Destroyed with onboard nuclear device, on 12/██/████ to avoid Cascading failure.
  PCS #004  | Decommissioned on 02/██/████ after Incident Echo-444-PC-COCOON-456-CARGO
- PCS #005  | Damaged but in service.
+ PCS #005  | Damaged but in service, Retrofitted for use by the [[Lore:Setting Primer|Consistent Staffing Program]]
  PCS #006  | Super Structure Failure, Evacuated and Scrapped on 06/██/████.
  PCS #007  | In service.
  PCS #008  | In service.
