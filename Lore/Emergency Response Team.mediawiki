@@ -19,12 +19,19 @@ a combative team team may contain any mix of units or specialists. however it is
  Riflemen   | are Security Specialists with the duty of being the bulk of the firepower of the unit 
  Corpsmen   | are Medical Specialists with the responsibility of providing advanced medical care to the rest of the unit
 
-CBURN have an even simpler power structure, while their duties are wide reaching, the simplicity of their teams command structure are found to increase mission success rates.
+All team types have a standard power structure that is easy to reference and simple to understand. CBURN units are refereed to excursively by their rank and not by their duties within the team
+
+ Commanders
+ Colonels
+ Majors
+ Captains
+ Lieutenants
  Sargents
  Corporals
+ Privates
  Specalists 
 
-Duties of higher ranking ERT personnel, such as: Lieutenants, Colonels, majors, and commanders; vary Greatly from occasionally taking the role of a Sargent to personally ensure a mission is completed; to ensuring that Those below you are completing their duties, or acting as an information relay for a team. these personnel will sometimes also hold other duties at central command.
+Duties of higher ranking ERT personnel, such as: Lieutenants, Captains, Colonels, majors, and commanders; vary Greatly from occasionally taking the role of a Sargent to personally ensure a mission is completed; to ensuring that Those below you are completing their duties, or acting as an information relay for a team. these personnel will sometimes also hold other duties at central command.
 
 = History and Practices =
 == Hiring Practices ==

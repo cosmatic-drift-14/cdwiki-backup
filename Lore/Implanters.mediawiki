@@ -1,38 +1,73 @@
-This page includes lore information about implants.
-
-=== What Are Implants? ===
-Implants are typically small machines meant to be put inside one's body. They can have a variety of functions, ranging to cosmetic alterations to practical abilities. Some examples that can be found upon NanoTrasen stations are light implants, and tracking implants. 
-Implants typically rely on bluespace technology to perform their function, as without this technology, a relatively trivial function would require intensive surgery.
-There are two main kinds of implants &#8212; Long-Term Implants, and Disposable Implants. Both have their uses.
+Implants are small machines meant to be put inside one's body. They can have a variety of functions, ranging from cosmetic alterations to practical abilities. Implants have been split up into two main types, ones that are long-term, and others that are quick use and disposable.
 
 === Long-Term Implants ===
-Long-Term Implants are, as the name suggests, implants meant to be used many times over a long term, sometimes being days, months, years, or even a lifetime. These implants typically require surgery to be inserted, as anything beyond a perfect insertion can cause complications.
+Long-term implants are, as the name suggests, implants meant to be used over a long time frame. They are designed to work until removal; however, they still occasionally need to go through maintenance on a monthly to yearly basis depending on the implant. These implants typically require surgery to be inserted, as anything beyond a perfect insertion can cause complications later down the line.
 
-Long-Term Implants typically are powered by a person's body heat, metabolism, or generation of electricity. Batteries often do not last long enough to be used long-term, and recharging a battery inside a person is challenging. Research on using quantum or bluespace technology to charge an implant are ongoing.
+Most long-term implants are typically powered by a person's body heat, metabolism, or generation of electricity. Batteries obviously do not last long enough to be used long-term, and recharging a battery inside a person can be a challenging and dangerous endeavor. Research on using quantum or bluespace technology to charge an implant is still on-going.
 
-Long-Term Implants also use minimal power, as the body cannot support electricity-intensive devices.. In extreme cases, a secondary implant may be administered to increase a person's body heat production/metabolism/electricity generation to provide more power to the original implant.
+Due to long-term implants taking their power directly from a person's body functions, they have been hyper-optimized to use as little energy as needed. In extreme cases however, a secondary implant can be administered to increase a person's body heat production / metabolism / electricity generation to provide more power to the original implant(s).
 
 === Disposable Implants ===
-Disposable Implants, are, once again, as the name suggests, implants that are meant to be disposable. They typically run off of a battery or capacitor, and dissolve inside someone's body when their purpose is fulfilled. They can last on average for days, to weeks. 
+Disposable implants, are, once again as the name suggests, implants that are meant to be disposable. They typically run off of a battery or capacitor, and usually harmlessly dissolve inside someone's body when their purpose is fulfilled. They're predominantly designed to last up to a week at maximum. 
 
-These implants are typically inserted via an implanter.
+Utilizing modern day medical science, short-term implantation is accomplished by the use of injection devices called implanters. Implanters allow disposable implants to be a quick, cheap, and widely available solution.
 
 === Implanters ===
 Implanters are pieces of technology that allow for rapid insertions of implants. They resemble a syringe, with a needle, a plunger, and a barrel. In the barrel contains a custom implant.
 
-Implanters can be used without any training &#8212; simply stab yourself with the needle, press down on the plunger, and the implanter does the rest. The implanter will move the implant across your body until it is in the correct spot, where the implant will begin taking function. This isn't as precise as surgery, but is cheap and easy. It works for all but the most sensitive implants. 
+Implanters can be used without any training &#8212; simply insert the hypodermic needle into the skin, press down on the plunger, and the implanter does the rest. The implanter will move the implant across your body until it is in the correct spot, where the implant will begin performing its function. This isn't as precise as surgery, but it is cheap, easy, and works for all but the most sensitive implants. 
 
-Empty implanters can also be used to remove implants. The implanter must be designed to remove each specific implant, although a single implanter can have multiple options for which implant it wants to remove. Simply stab yourself with the needle and draw on the plunger, and the implant will move inside the implanter, removing it from your body.
+Empty implanters can also be used to remove implants. The implanter must be designed to remove the specific implant you're after, although most implanters nowadays have the ability to remove multiple types of implants through a small options menu. Simply insert the hypodermic needle and draw on the plunger, and the implant will move into the implanter, removing it from your body.
 
-=== Why Use Disposable Implants? ===
-Disposable Implants have a few benefits over Long-Term Implants. Disposable Implants are much cheaper, can allow for implants to use much more power-intensive machines, allow implants that would have long-term consequences to be used, allow for implants on impulse, and allow for implants to be done without paperwork.
+=== Sale of Implants ===
+Implants are considered body augments and are handled much the same as medications. To sell an implant in any galactic market it must be properly labeled with its function, any potential side effects, and an emergency number to call if it malfunctions. Under most jurisdictions an implant may also not pose an undue risk to the user's life, regardless of if it's properly advertised or not.
 
-Firstly, it's cheaper to use a Disposable Implant over a Long-Term Implant. The lack of needing to generate power saves a lot of money on the implant.
+Implants are a particularly common find all around civilized space, especially in pharmacies, corner stores, and robotics shops. You can buy both long-term and disposable implants off the shelf, over the counter, or schedule a proper implantation surgery. Of course, you would need the means of implanting a long-term one if you purchased it yourself, outside of a hospital.
 
-Secondly, Disposable Implants can use much more power intensive machines. They can use all of their battery quickly, as they only need to last a short while.
-
-Thirdly, Disposable Implants only last for a short while, so long-term consequences of the implant can be mostly ignored. 
-
-Fourthly, Disposable Implants allow for impulse implants. A vending machine set up in a corner store can sell implants that can be injected at the same day, for a party trick or otherwise.
-
-Lastly, Disposable Implants do not require much paperwork. A Long-Term Implant requires the patient to be told it's use, it's consequence, it's side effects, and other information, alongside a signature. Disposable implants circumvent this, as if it fades within a week, no paperwork is needed.
+=== List of Common Implants ===
+{| class="wikitable"
+! style="color:white; background-color:#1a5763; text-align: left" | Implant !! style="color:white; background-color:#1a5763; text-align: left" | Function !! style="color:white; background-color:#1a5763; text-align: left" | Notes
+|-
+| Bike Horn || Allows the user to emit a honk noise on command. || This is a disposable implant that lasts a few days as standard.
+|-
+| CentComm Death Rattle || Emits a distress signal on Central Command radio channels upon the user entering critical condition. || This is a restricted disposable implant that typically lasts a couple days.
+|-
+| CentComm Radio || Allows the user to communicate through Central Command radio channels. || This is a restricted disposable implant that typically lasts a couple days.
+|-
+| Chameleon Controller || Allows the user to easily control any chameleon equipment they are wearing. || This is an illegal disposable implant that typically lasts a couple days.
+|-
+| Death Acidifier || Erupts into a hyperactive acid that dissolves the user near instantly upon activation or the user's death. || This is an illegal disposable implant that lasts until it is used.
+|-
+| Death Rattle || Emits a distress signal on Syndicate radio channels upon the user entering critical condition. || This is an illegal disposable implant that typically lasts a couple days.
+|-
+| DNA Scrambler || Allows the user to permanently make random alterations to their appearance. || This is an illegal disposable implant that lasts until it is used.
+|-
+| EMP || Allows the user to emit an electromagnetic pulse. || This is an illegal disposable implant that lasts until it is used three times.
+|-
+| Fake Mindshield || Causes the user to appear mindshielded on scanning technology. || This is an illegal disposable implant that typically lasts a few days.
+|-
+| Freedom || Erupts into a strong acid that dissolves any restraints on the user near instantly upon activation. || This is an illegal disposable implant that lasts until it is used three times.
+|-
+| Identity Mask || Allows the user to obfuscate and alter their voice on command. || This is an illegal disposable implant that typically lasts a day.
+|-
+| Light || Emits a small light upon activation. || This is a disposable implant that typically lasts a couple days.
+|-
+| Macro-bomb || Erupts into a large explosion upon the user's death. || This is an illegal disposable implant that lasts until it is used.
+|-
+| Medical Tracking || Tracks the user on crew monitors and emits a distress signal on Medical radio channels upon the user's death. || This is a disposable implant that typically lasts a couple days.
+|-
+| Micro-bomb || Erupts into a small explosion on command or upon the user's death. || This is an illegal disposable implant that lasts until it is used, or until the user dies, whereupon it activates automatically.
+|-
+| Mind-shield || Acts as a shield against most external mental effects such as mind control. || This is be a disposable implant that typically lasts a day.
+|-
+| Sad Trombone || Emits a sand trombone noise upon the user's death. || This is a disposable implant that typically lasts a few days.
+|-
+| Scram || Allows the user to instantly teleport to a random nearby location. || This is an illegal disposable implant that lasts until it is used two times.
+|-
+| Storage || Allows the user to store small items in a hidden pocket along their skin. || This is an illegal disposable implant that typically lasts a day.
+|-
+| Syndicate Radio || Allows the user to communicate through Syndicate radio channels. || This is an illegal disposable implant that typically lasts a couple days.
+|-
+| Tracking || Tracks the user on crew monitors and emits a distress signal on Security radio channels upon the user entering critical condition. || This is a disposable implant that typically lasts a couple days.
+|-
+| Uplink || Allows the user to access a hidden syndicate uplink. || This is an illegal disposable implant that typically lasts a couple days.
