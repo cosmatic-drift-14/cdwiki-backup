@@ -28,7 +28,7 @@ Implants are a particularly common find all around civilized space, especially i
 {| class="wikitable"
 ! style="color:white; background-color:#1a5763; text-align: left" | Implant !! style="color:white; background-color:#1a5763; text-align: left" | Function !! style="color:white; background-color:#1a5763; text-align: left" | Notes
 |-
-| Bike Horn || Allows the user to emit a honk noise on command. || This is a disposable implant that lasts a few days as standard.
+| Bike Horn || Allows the user to emit a honk noise on command. || This is a disposable implant that typically lasts a few days.
 |-
 | CentComm Death Rattle || Emits a distress signal on Central Command radio channels upon the user entering critical condition. || This is a restricted disposable implant that typically lasts a couple days.
 |-
@@ -56,9 +56,9 @@ Implants are a particularly common find all around civilized space, especially i
 |-
 | Medical Tracking || Tracks the user on crew monitors and emits a distress signal on Medical radio channels upon the user's death. || This is a disposable implant that typically lasts a couple days.
 |-
-| Micro-bomb || Erupts into a small explosion on command or upon the user's death. || This is an illegal disposable implant that lasts until it is used, or until the user dies, whereupon it activates automatically.
+| Micro-bomb || Erupts into a small explosion on command or upon the user's death. || This is an illegal disposable implant that lasts until it is used.
 |-
-| Mind-shield || Acts as a shield against most external mental effects such as mind control. || This is be a disposable implant that typically lasts a day.
+| Mind-shield || Acts as a shield against most external mental effects such as mind control. || This is a disposable implant that typically lasts a day.
 |-
 | Sad Trombone || Emits a sand trombone noise upon the user's death. || This is a disposable implant that typically lasts a few days.
 |-
